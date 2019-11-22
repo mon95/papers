@@ -5,6 +5,12 @@ I mostly intend to use these as notes or quick references for any current and/or
 
 2017
 
+  * Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+    [paper](https://arxiv.org/pdf/1610.02391v3.pdf) 
+    [summary]() (To be updated)
+
   * Adversarial Discriminative Domain Adaptation (CVPR) 
     [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) 
-    [summary]()
+    [summary]() (To be updated)
+    
+    
